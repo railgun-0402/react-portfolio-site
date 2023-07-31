@@ -151,3 +151,7 @@ h3 {
  background: #fff;
  color: #30BFBA;
 }
+
+.skill-item {
+  margin: 0 48px;
+}
