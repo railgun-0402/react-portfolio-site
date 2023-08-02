@@ -1,5 +1,5 @@
 import Circle from 'react-circle';
-import { useEffect, useReducer, useState } from 'react';
+import { useEffect, useReducer } from 'react';
 import axios from 'axios';
 import { skillReducer, initialState, actionTypes } from '../reducers/skillReducer';
 import { requestStates } from '../constants';
